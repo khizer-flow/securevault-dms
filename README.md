@@ -138,7 +138,7 @@ Built as a demonstration of modern cryptographic practices, this system showcase
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/securevault-dms.git
+git clone https://github.com/khizer-flow/securevault-dms.git
 cd securevault-dms
 
 # Create virtual environment (recommended)
@@ -394,7 +394,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [@khizer-flow](https://github.com/khizer-flow)
 
 ---
 
