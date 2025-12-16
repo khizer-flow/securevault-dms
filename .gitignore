@@ -1,0 +1,37 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Database files (contain sensitive data)
+*.db
+
+# Uploads directory (encrypted documents)
+uploads/
+
+# Output/test files
+*.txt
+!requirements.txt
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Local development
+.env
+.env.local
+*.log
